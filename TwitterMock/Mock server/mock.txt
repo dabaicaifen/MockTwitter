@@ -1,0 +1,652 @@
+[
+{
+"id": 1,
+"user": {
+"id": 1,
+"username": "Ottawa Senators",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1068508393470455809/rKgHp0LX_bigger.jpg"
+},
+"message": "Final morning skate of the season.",
+"createdTime": "Wed Apr 06 04:53:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3elkr7WsAUJC-j.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 2,
+"user": {
+"id": 2,
+"username": "The Economist",
+"avatarUrl": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_bigger.jpg"
+},
+"message": "Economic models cannot predict the strangeness of real world economic events",
+"createdTime": "Wed Apr 06 04:52:25 +0000 2019",
+"imageUrl": "https://www.economist.com/sites/default/files/imagecache/1280-width/20190406_FND000.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 3,
+"user": {
+"id": 3,
+"username": "CNET",
+"avatarUrl": "https://pbs.twimg.com/profile_images/963998359001317376/scuoOV5m_bigger.jpg"
+},
+"message": "iPhone 11 rumors hint at some important battery upgrades",
+"createdTime": "Wed Apr 06 04:51:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ekEIJX4AAMxTU.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 4,
+"user": {
+"id": 1,
+"username": "Ottawa Senators",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1068508393470455809/rKgHp0LX_bigger.jpg"
+},
+"message": "Game Day: Senators versus Blue Jackets",
+"createdTime": "Wed Apr 06 04:50:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ekpU4XoAoUMjE.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 5,
+"user": {
+"id": 4,
+"username": "WIRED",
+"avatarUrl": "https://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_bigger.png"
+},
+"message": "When it opened in 1894, London's Tower Bridge was hailed as a triumph of Victorian engineering. It was the largest and most sophisticated overpass of its kind in the world. At 125 years old, it's still pretty incredible.",
+"createdTime": "Wed Apr 06 04:49:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ekQ_yWsAAbQGt.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 6,
+"user": {
+"id": 5,
+"username": "CNN",
+"avatarUrl": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_bigger.png"
+},
+"message": "Here's how Brexit could wreck European politics | Analysis by Luke McGee",
+"createdTime": "Wed Apr 06 04:48:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ejkX2W0AEup1c.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 7,
+"user": {
+"id": 2,
+"username": "The Economist",
+"avatarUrl": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_bigger.jpg"
+},
+"message": "A new show @Tate Modern is the first large-scale solo exhibition of Tanning’s work anywhere in 25 years",
+"createdTime": "Wed Apr 06 04:47:25 +0000 2019",
+"imageUrl": "https://www.economist.com/sites/default/files/imagecache/1280-width/20190406_BKP502.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 8,
+"user": {
+"id": 6,
+"username": "Reuters Top News",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+"message": "France says G7 mostly agreed except on Iran, Israeli-Palestinian issue",
+"createdTime": "Wed Apr 06 04:46:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3elFYaW4AAKbdP.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 9,
+"user": {
+"id": 6,
+"username": "Reuters Top News",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+"message": "SAP's head of cloud business latest top departure in restructuring",
+"createdTime": "Wed Apr 06 04:45:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ekFfjXsAI6sZm.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 10,
+"user": {
+"id": 6,
+"username": "Reuters Top News",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+"message": "In astrophysics milestone, first photo of black hole expected",
+"createdTime": "Wed Apr 06 04:44:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ei0mMWAAEFSVY.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 11,
+"user": {
+"id": 7,
+"username": "Ottawa Sun",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+},
+"message": "Two Carleton Place residents charged with drug offences",
+"createdTime": "Wed Apr 06 04:43:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3eiZIrWsAAQ6HP.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 12,
+"user": {
+"id": 7,
+"username": "Ottawa Sun",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+},
+"message": "G20 must tackle root causes of trade tensions that threaten growth: EU",
+"createdTime": "Wed Apr 06 04:42:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ehfH2WsAEX5uD.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 13,
+"user": {
+"id": 5,
+"username": "CNN",
+"avatarUrl": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_bigger.png"
+},
+"message": "A New York man is in custody after having been arrested and charged with threatening to assault and murder Rep. Ilhan Omar, US Attorney's office says",
+"createdTime": "Wed Apr 06 04:41:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ehWQoXoAEgHaY.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 14,
+"user": {
+"id": 5,
+"username": "CNN",
+"avatarUrl": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_bigger.png"
+},
+"message": "The leader of a popular new party that has positioned itself as a progressive opponent to Thailand's military government has been charged with sedition",
+"createdTime": "Wed Apr 06 04:40:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ehOOFW0AQ7s12.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 15,
+"user": {
+"id": 3,
+"username": "CNET",
+"avatarUrl": "https://pbs.twimg.com/profile_images/963998359001317376/scuoOV5m_bigger.jpg"
+},
+"message": "The Instruments of Rock & Roll show rocks the Met Museum",
+"createdTime": "Wed Apr 06 04:39:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3egpGWXoAE5lEo.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 16,
+"user": {
+"id": 5,
+"username": "CNN",
+"avatarUrl": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_bigger.png"
+},
+"message": "Can happiness be exported? One Finnish school believes so.",
+"createdTime": "Wed Apr 06 04:38:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3eglF3WkAYFUtn.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 17,
+"user": {
+"id": 6,
+"username": "Reuters Top News",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+"message": "Howe uncertain of Fraser's Bournemouth future amid Arsenal links",
+"createdTime": "Wed Apr 06 04:36:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3e2cejW4AAY8Ew.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 18,
+"user": {
+"id": 6,
+"username": "Reuters Top News",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+"message": "Last flight leaves Ataturk as Istanbul switches airports",
+"createdTime": "Wed Apr 06 04:35:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3egIYlXsAANzZj.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 19,
+"user": {
+"id": 7,
+"username": "Ottawa Sun",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+},
+"message": "One person seriously wounded in Hull stabbing",
+"createdTime": "Wed Apr 06 04:32:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ef7ONWAAAz0rz.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 20,
+"user": {
+"id": 7,
+"username": "Ottawa Sun",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+},
+"message": "Ontario ticket takes Friday night's $55 million Lotto Max jackpot",
+"createdTime": "Wed Apr 06 04:30:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3efeNZW0AAPaMw.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 21,
+"user": {
+"id": 7,
+"username": "Ottawa Sun",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+},
+"message": "Two Carleton Place residents charged with drug offences",
+"createdTime": "Wed Apr 06 04:43:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3eiZIrWsAAQ6HP.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 22,
+"user": {
+"id": 7,
+"username": "Ottawa Sun",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+},
+"message": "G20 must tackle root causes of trade tensions that threaten growth: EU",
+"createdTime": "Wed Apr 06 04:42:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ehfH2WsAEX5uD.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 23,
+"user": {
+"id": 5,
+"username": "CNN",
+"avatarUrl": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_bigger.png"
+},
+"message": "A New York man is in custody after having been arrested and charged with threatening to assault and murder Rep. Ilhan Omar, US Attorney's office says",
+"createdTime": "Wed Apr 06 04:41:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ehWQoXoAEgHaY.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 24,
+"user": {
+"id": 5,
+"username": "CNN",
+"avatarUrl": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_bigger.png"
+},
+"message": "The leader of a popular new party that has positioned itself as a progressive opponent to Thailand's military government has been charged with sedition",
+"createdTime": "Wed Apr 06 04:40:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ehOOFW0AQ7s12.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 25,
+"user": {
+"id": 3,
+"username": "CNET",
+"avatarUrl": "https://pbs.twimg.com/profile_images/963998359001317376/scuoOV5m_bigger.jpg"
+},
+"message": "The Instruments of Rock & Roll show rocks the Met Museum",
+"createdTime": "Wed Apr 06 04:39:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3egpGWXoAE5lEo.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 26,
+"user": {
+"id": 5,
+"username": "CNN",
+"avatarUrl": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_bigger.png"
+},
+"message": "Can happiness be exported? One Finnish school believes so.",
+"createdTime": "Wed Apr 06 04:38:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3eglF3WkAYFUtn.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 27,
+"user": {
+"id": 6,
+"username": "Reuters Top News",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+"message": "Howe uncertain of Fraser's Bournemouth future amid Arsenal links",
+"createdTime": "Wed Apr 06 04:36:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3e2cejW4AAY8Ew.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 28,
+"user": {
+"id": 6,
+"username": "Reuters Top News",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+"message": "Last flight leaves Ataturk as Istanbul switches airports",
+"createdTime": "Wed Apr 06 04:35:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3egIYlXsAANzZj.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 29,
+"user": {
+"id": 7,
+"username": "Ottawa Sun",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+},
+"message": "One person seriously wounded in Hull stabbing",
+"createdTime": "Wed Apr 06 04:32:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ef7ONWAAAz0rz.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 30,
+"user": {
+"id": 7,
+"username": "Ottawa Sun",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+},
+"message": "Ontario ticket takes Friday night's $55 million Lotto Max jackpot",
+"createdTime": "Wed Apr 06 04:30:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3efeNZW0AAPaMw.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 31,
+"user": {
+"id": 1,
+"username": "Ottawa Senators",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1068508393470455809/rKgHp0LX_bigger.jpg"
+},
+"message": "Final morning skate of the season.",
+"createdTime": "Wed Apr 06 04:53:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3elkr7WsAUJC-j.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 32,
+"user": {
+"id": 2,
+"username": "The Economist",
+"avatarUrl": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_bigger.jpg"
+},
+"message": "Economic models cannot predict the strangeness of real world economic events",
+"createdTime": "Wed Apr 06 04:52:25 +0000 2019",
+"imageUrl": "https://www.economist.com/sites/default/files/imagecache/1280-width/20190406_FND000.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 33,
+"user": {
+"id": 3,
+"username": "CNET",
+"avatarUrl": "https://pbs.twimg.com/profile_images/963998359001317376/scuoOV5m_bigger.jpg"
+},
+"message": "iPhone 11 rumors hint at some important battery upgrades",
+"createdTime": "Wed Apr 06 04:51:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ekEIJX4AAMxTU.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 34,
+"user": {
+"id": 1,
+"username": "Ottawa Senators",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1068508393470455809/rKgHp0LX_bigger.jpg"
+},
+"message": "Game Day: Senators versus Blue Jackets",
+"createdTime": "Wed Apr 06 04:50:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ekpU4XoAoUMjE.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 35,
+"user": {
+"id": 4,
+"username": "WIRED",
+"avatarUrl": "https://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_bigger.png"
+},
+"message": "When it opened in 1894, London's Tower Bridge was hailed as a triumph of Victorian engineering. It was the largest and most sophisticated overpass of its kind in the world. At 125 years old, it's still pretty incredible.",
+"createdTime": "Wed Apr 06 04:49:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ekQ_yWsAAbQGt.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 36,
+"user": {
+"id": 5,
+"username": "CNN",
+"avatarUrl": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_bigger.png"
+},
+"message": "Here's how Brexit could wreck European politics | Analysis by Luke McGee",
+"createdTime": "Wed Apr 06 04:48:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ejkX2W0AEup1c.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 37,
+"user": {
+"id": 2,
+"username": "The Economist",
+"avatarUrl": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_bigger.jpg"
+},
+"message": "A new show @Tate Modern is the first large-scale solo exhibition of Tanning’s work anywhere in 25 years",
+"createdTime": "Wed Apr 06 04:47:25 +0000 2019",
+"imageUrl": "https://www.economist.com/sites/default/files/imagecache/1280-width/20190406_BKP502.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 38,
+"user": {
+"id": 6,
+"username": "Reuters Top News",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+"message": "France says G7 mostly agreed except on Iran, Israeli-Palestinian issue",
+"createdTime": "Wed Apr 06 04:46:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3elFYaW4AAKbdP.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 39,
+"user": {
+"id": 6,
+"username": "Reuters Top News",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+"message": "SAP's head of cloud business latest top departure in restructuring",
+"createdTime": "Wed Apr 06 04:45:25 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ekFfjXsAI6sZm.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 40,
+"user": {
+"id": 6,
+"username": "Reuters Top News",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+"message": "In astrophysics milestone, first photo of black hole expected",
+"createdTime": "Wed Apr 06 04:44:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ei0mMWAAEFSVY.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 41,
+"user": {
+"id": 7,
+"username": "Ottawa Sun",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+},
+"message": "Two Carleton Place residents charged with drug offences",
+"createdTime": "Wed Apr 06 04:43:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3eiZIrWsAAQ6HP.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 42,
+"user": {
+"id": 7,
+"username": "Ottawa Sun",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+},
+"message": "G20 must tackle root causes of trade tensions that threaten growth: EU",
+"createdTime": "Wed Apr 06 04:42:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ehfH2WsAEX5uD.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 43,
+"user": {
+"id": 5,
+"username": "CNN",
+"avatarUrl": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_bigger.png"
+},
+"message": "A New York man is in custody after having been arrested and charged with threatening to assault and murder Rep. Ilhan Omar, US Attorney's office says",
+"createdTime": "Wed Apr 06 04:41:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ehWQoXoAEgHaY.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 44,
+"user": {
+"id": 5,
+"username": "CNN",
+"avatarUrl": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_bigger.png"
+},
+"message": "The leader of a popular new party that has positioned itself as a progressive opponent to Thailand's military government has been charged with sedition",
+"createdTime": "Wed Apr 06 04:40:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ehOOFW0AQ7s12.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 45,
+"user": {
+"id": 3,
+"username": "CNET",
+"avatarUrl": "https://pbs.twimg.com/profile_images/963998359001317376/scuoOV5m_bigger.jpg"
+},
+"message": "The Instruments of Rock & Roll show rocks the Met Museum",
+"createdTime": "Wed Apr 06 04:39:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3egpGWXoAE5lEo.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 46,
+"user": {
+"id": 5,
+"username": "CNN",
+"avatarUrl": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_bigger.png"
+},
+"message": "Can happiness be exported? One Finnish school believes so.",
+"createdTime": "Wed Apr 06 04:38:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3eglF3WkAYFUtn.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 47,
+"user": {
+"id": 6,
+"username": "Reuters Top News",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+"message": "Howe uncertain of Fraser's Bournemouth future amid Arsenal links",
+"createdTime": "Wed Apr 06 04:36:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3e2cejW4AAY8Ew.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 48,
+"user": {
+"id": 6,
+"username": "Reuters Top News",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+"message": "Last flight leaves Ataturk as Istanbul switches airports",
+"createdTime": "Wed Apr 06 04:35:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3egIYlXsAANzZj.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 49,
+"user": {
+"id": 7,
+"username": "Ottawa Sun",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+},
+"message": "One person seriously wounded in Hull stabbing",
+"createdTime": "Wed Apr 06 04:32:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3ef7ONWAAAz0rz.jpg",
+"width": 150,
+"height": 100
+},
+{
+"id": 50,
+"user": {
+"id": 7,
+"username": "Ottawa Sun",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+},
+"message": "Ontario ticket takes Friday night's $55 million Lotto Max jackpot",
+"createdTime": "Wed Apr 06 04:30:24 +0000 2019",
+"imageUrl": "https://pbs.twimg.com/media/D3efeNZW0AAPaMw.jpg",
+"width": 150,
+"height": 100
+}
+]

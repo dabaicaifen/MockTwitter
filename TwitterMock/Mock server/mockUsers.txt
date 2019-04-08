@@ -1,0 +1,44 @@
+[
+{
+"id": 1,
+"username": "Ottawa Senators",
+"password": "",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1068508393470455809/rKgHp0LX_bigger.jpg"
+},
+{
+"id": 2,
+"username": "The Economist",
+"password": "",
+"avatarUrl": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_bigger.jpg"
+},
+{
+"id": 3,
+"username": "CNET",
+"password": "",
+"avatarUrl": "https://pbs.twimg.com/profile_images/963998359001317376/scuoOV5m_bigger.jpg"
+},
+{
+"id": 4,
+"username": "WIRED",
+"password": "",
+"avatarUrl": "https://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_bigger.png"
+},
+{
+"id": 5,
+"username": "CNN",
+"password": "",
+"avatarUrl": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_bigger.png"
+},
+{
+"id": 6,
+"username": "Reuters Top News",
+"password": "",
+"avatarUrl": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_bigger.jpg"
+},
+{
+"id": 7,
+"username": "Ottawa Sun",
+"password": "",
+"avatarUrl": "https://pbs.twimg.com/profile_images/1050411829241905152/K4tVFi6s_bigger.jpg"
+}
+]

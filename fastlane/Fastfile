@@ -1,0 +1,45 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:ios)
+device = "iPhone X"
+
+platform :ios do
+
+	before_all do |lane|
+		ENV["FASTLANE_XCODEBUILD_SETTINGS_TIMEOUT"] = "100"
+		ENV["FASTLANE_XCODEBUILD_SETTINGS_RETRIES"] = "10"
+		ENV["FASTLANE_XCODE_LIST_TIMEOUT"] = "120"
+		ENV["FASTLANE_SKIP_UPDATE_CHECK"] = "1"
+		ENV["FASTLANE_HIDE_CHANGELOG"] = "1"
+	end
+
+	desc "UI Tests"
+	lane :ui_tests do
+		run_tests(workspace: "TwitterMock.xcworkspace",
+			device: device,
+			scheme: "TwitterMock",
+			only_testing: ["TwitterMockUITests"])
+	end
+
+	desc "Unit Tests"
+	lane :unit_tests do
+		run_tests(workspace: "TwitterMock.xcworkspace",
+			device: device,
+			scheme: "TwitterMock",
+			only_testing: ["TwitterMockTests"])
+	end
+
+end
